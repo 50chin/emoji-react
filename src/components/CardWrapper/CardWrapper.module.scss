@@ -1,0 +1,6 @@
+.cardWrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 19px;
+  padding-top: 80px;
+}

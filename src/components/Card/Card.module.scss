@@ -1,0 +1,38 @@
+.card {
+  width: 316px;
+  height: 184px;
+  border-radius: 4px;
+  border: 1px solid #dee2e6;
+  background: #fff;
+  padding: 24px;
+  text-align: center;
+
+  &__symbol {
+    color: #68717a;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 48px;
+  }
+  &__title {
+    margin-top: 18px;
+    color: #000;
+    font-family: Inter;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px;
+    text-decoration-line: underline;
+  }
+
+  &__keywords {
+    color: #3f444a;
+    font-family: Inter;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 268px;
+  }
+}
