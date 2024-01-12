@@ -2,7 +2,6 @@ import React from 'react';
 import s from './Header.module.scss';
 import { SearchBar } from '../../ui/SearchBar/SearchBar';
 
-
 export const Header = ({ searchHandler, searchValue }) => {
   return (
     <header className={s.header}>

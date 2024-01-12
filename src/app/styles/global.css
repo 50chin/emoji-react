@@ -19,3 +19,24 @@ body {
 main {
   flex-grow: 1;
 }
+
+select {
+  width: 120px;
+  height: 38px;
+  color: #6c757d;
+  padding-left: 10px;
+  font-size: 16px;
+  background: #ffffff;
+}
+
+button {
+  padding: 12px 14px;
+  border: 1px solid #dee2e6;
+  background: #fff;
+  cursor: pointer;
+  color: #055160;
+}
+
+.num__btn {
+  width: 110px;
+}
