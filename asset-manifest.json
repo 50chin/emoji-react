@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/50chin/emoji-react/static/css/main.06d36329.css",
+    "main.js": "/50chin/emoji-react/static/js/main.709af901.js",
+    "index.html": "/50chin/emoji-react/index.html",
+    "main.06d36329.css.map": "/50chin/emoji-react/static/css/main.06d36329.css.map",
+    "main.709af901.js.map": "/50chin/emoji-react/static/js/main.709af901.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06d36329.css",
+    "static/js/main.709af901.js"
+  ]
+}
